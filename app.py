@@ -1,5 +1,5 @@
 def show_message():
-    print("Welcome to the Student Login Portal")
+    print("Welcome to the Student Learning Portal")
 
 
 def main():
